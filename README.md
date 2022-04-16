@@ -1,6 +1,6 @@
 ﻿Live Performance Leveler V1.0 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.001.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.001.jpeg)
 
 Table of contents 
 
@@ -99,37 +99,37 @@ Live Performance Referencer
 
 **Presentation Mode:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.002.png)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.002.png)
 
 **Patch mode explanation:**
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.003.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.003.jpeg)
 
 Live Performance Leveler 
 
 **Presentation mode:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.001.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.001.jpeg)
 
 **Patch mode Gain Correction explanation:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.004.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.004.jpeg)
 
 **Patch mode Meters explanation:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.005.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.005.jpeg)
 
 **Subpatch p meter explanation:**
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.006.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.006.jpeg)
 
 **Subpatch p max peak explanation:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.007.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.007.jpeg)
 
 **Patch mode Limiter explanation:** 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.008.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.008.jpeg)
 
 Testing procedure 
 
@@ -145,7 +145,7 @@ The best threshold I found for the limiter to react was -0.96 dBFS Peak, with th
 
 To test the default values of the Live Performance Leveler I used it on three 30 minute snapshots from live performances at Heads Radio (beginning of the recording till 30min). The unprocessed and processed recordings are shown in the image below and hearable here. 
 
-![](Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.009.jpeg)
+![](images/Aspose.Words.79b5f1bb-939e-4332-aebc-a79c39bfdb6d.009.jpeg)
 
 5min                 10min     15min        20min      25min          
 
@@ -202,10 +202,6 @@ Appendix 1: Instructions on installing and running the software
 To run the software you need to install Ableton LIVE Suite (version 10 or higher). A trial version can be downloaded on their website 
 
 After installing Ableton LIVE Suite, drag  the Live Performance Referencer.amxd and Live Performance Leveler.amxd into one of the tracks of Ableton LIVE. 
-
-Watch this video for further instructions. 
-
-**Links**: Dropbox folder 
 
 Appendix 2: Glossary 
 
